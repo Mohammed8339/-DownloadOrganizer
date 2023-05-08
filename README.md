@@ -16,9 +16,10 @@ The script periodically scans the 'Downloads' folder and identifies files within
 
 1. Ensure you have Python installed on your system.
 2. Clone the repository or download the code files.
-3. Open a terminal or command prompt and navigate to the project directory.
-4. Run the script using the command: `python downloads_organizer.py`.
-5. Sit back and let the script do the work! The 'Downloads' folder will be organized automatically based on file extensions.
+3. Create a folder in your downloads folder called: `Folders`
+4. Open a terminal or command prompt and navigate to the project directory.
+5. Run the script using the command: `python downloads_organizer.py`.
+6. Sit back and let the script do the work! The 'Downloads' folder will be organized automatically based on file extensions.
 
 ## Requirements
 
